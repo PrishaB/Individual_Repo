@@ -29,9 +29,9 @@
         
 <table>
      <tr>
-         <td><a href=".">Home</a></td>
-         <td><a href="code">Code</a></td>
-         <td><a href="notes">CB Notes</a></td>
+         <td><a href="https://replit.com/@PrishaBoreddy/PleasingFaithfulPostscript#matrix.py">Replit Code</a></td>
+         <td><a href="https://github.com/PrishaB/Individual_Repo2.0/wiki/Create-Task-Work-and-Code">Create Task Work</a></td>
+         <td><a href="https://github.com/PrishaB/Individual_Repo2.0/wiki/Notes-and-Plans">CB Notes</a></td>
      </tr>
  </table>
 
