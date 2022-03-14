@@ -1,6 +1,12 @@
 ## Welcome to Prisha's Individual Repo!
 
-### Just a practice Jekyll Site so I only have notes for now
+<table>
+     <tr>
+         <td><a href=".">Home</a></td>
+         <td><a href="code">Code</a></td>
+         <td><a href="notes">CB Notes</a></td>
+     </tr>
+ </table>
 
 ## Week 0
 ### 5.1 Notes -> Beneficial and Harmful Effects of Computing
