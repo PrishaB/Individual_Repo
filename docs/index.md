@@ -1,32 +1,5 @@
 ## Welcome to Prisha's Individual Repo!
 
-<!-- pages_python/_layouts/default.html
-     customization added to original midnight theme found through GitHub Pages -->
-
-  
-  <body>
-      <div id="header">
-        <nav>
-          <ul>
-            <li class="fork"><a href="https://github.com/nighthawkcoders/pages_python">View On GitHub</a></li>
-            
-          </ul>
-        </nav>
-      </div><!-- end header -->
-
-    <div class="wrapper">
-
-      <section>
-        <div id="title">
-         
-          <span class="credits left">Project maintained by <a href="https://github.com/nighthawkcoders">nighthawkcoders</a></span>
-          <!-- Credit goes to peron in next line, as nighthawkcoding society is rebranding this as their own
-               <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span> -->
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/NighthawkCoding">nighthawkcodingsociety</a></span> 
-        </div>
-        
-        <!-- "include navigation.html" allows inserted navigation that can be updated in independent file -->
-        
 <table>
      <tr>
          <td><a href="https://replit.com/@PrishaBoreddy/PleasingFaithfulPostscript#matrix.py">Replit Code</a></td>
@@ -34,17 +7,3 @@
          <td><a href="https://github.com/PrishaB/Individual_Repo2.0/wiki/Notes-and-Plans">CB Notes</a></td>
      </tr>
  </table>
-
-
-        <!-- "content" is Jekyll keyword, the md content will be inserted here -->
-<div id="video_wrapper">
-  <video autoplay loop>
-    <source src="https://drive.google.com/uc?export=view&id=1Qote5m--Bme0bE4_o6wAKNRxWY8pJnuL" type="video/mp4">
-  </video>
-</div>
-        
-      </section>
-
-    </div>
-  </body>
-</html>
